@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daqinpro
 - 👀 I’m interested in football
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at 3460474099@qq.com
 
